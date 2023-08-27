@@ -15,5 +15,5 @@ A responsive AND ANIMATED website design
 
 # Built with :-
 
-HTML,CSS
+HTML,CSS,css animations, flexbox ,grid
 
